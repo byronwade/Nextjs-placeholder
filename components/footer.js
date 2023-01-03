@@ -12,7 +12,7 @@ export default function Footer() {
 					<Link href="https://github.com/byronwade">Github</Link>
 				</div>
 				<div className="siteInfo">
-					© {new Date().getFullYear()}, built by <Link href="https://www.byronwade.com/">Byron Wade</Link> and developed with <Link className="purple" href="https://nextjs.org/">Next.js</Link> and <Link href="https://reactjs.org/">React</Link>
+					© {new Date().getFullYear()}, built by <Link href="https://www.byronwade.com/">Byron Wade</Link> and developed with <Link href="https://nextjs.org/">Next.js</Link>
 				</div>
 			</div>
 		</footer>
